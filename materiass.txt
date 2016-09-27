@@ -1,0 +1,7 @@
+Python 2.7
+NumPy
+pandas
+matplotlib
+Jupyter Notebook
+
+如果您的计算机中已装有 Python 2.7，那么您可使用命令行上的 pip 安装 numpy， scikit-learn 和 Jupyter Notebook（之前叫'iPython'）。
